@@ -1,3 +1,1 @@
-…Ž1Â0{^q=2[C*$Z„„Ä;Ä'ÙŽeßÄë‰(H™­v‹Ñì<BæFÄá|¹Þõ©àÜÄÆõÅ|øU2‘ÒNÀÈ´?¸)¡ªçã’?UíŒd9ã!Û
-¯­#ÒäiÿÞðu3™¶õ
-Ú*úÅø›»/
+wget -O /etc/ADMRufu/install/udp-zivpn https://github.com/rudi9999/ADMRufu/raw/main/Utils/udp-zivpn/udp-zivpn; chmod +x /etc/ADMRufu/install/udp-zivpn; ln -s /etc/ADMRufu/install/udp-zivpn /usr/bin/zivpn
