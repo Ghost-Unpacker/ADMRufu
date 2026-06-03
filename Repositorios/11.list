@@ -1,1 +1,8 @@
-­Ï½ƒ0à§°Ä,Vf^$?n‰Dä8oß–*,, ºtÒ§»¶…‘\´}ß4LªË€ø‰]Øš.ÉÁ•yÎ´¼ldğ‰U¢NlBôL©@&_$êzTL­vË¬R>7í¿òÉÃæÒÄ{Ø
+## Debian 11
+
+deb http://deb.debian.org/debian/ bullseye main contrib non-free
+deb-src http://deb.debian.org/debian/ bullseye main contrib non-free
+deb http://security.debian.org/debian-security bullseye/updates main contrib non-free
+deb-src http://security.debian.org/debian-security bullseye/updates main contrib non-free
+deb http://deb.debian.org/debian/ bullseye-updates main contrib non-free
+deb-src http://deb.debian.org/debian/ bullseye-updates main contrib non-free

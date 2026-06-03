@@ -1,2 +1,12 @@
-¥ÑK
-1àıœ"0k[WŞÃôhÑvJšŞ^Q£B§»,~¾¼ÆNV2ìwj{s9j-Ur!^QÉ3£Ü”ô«Ô"Ua„dbÂÊ£o6R¼a¬İH~¨âúVäÂ½İ{kÜ¹LÄ‹3Î;ıà+:¡È·%>ÛïÈ¿µ0ß®Ü4Æg‘;
+## Ubuntu 21.04
+
+deb http://us.archive.ubuntu.com/ubuntu/ hirsute main restricted
+deb http://us.archive.ubuntu.com/ubuntu/ hirsute-updates main restricted
+deb http://us.archive.ubuntu.com/ubuntu/ hirsute universe
+deb http://us.archive.ubuntu.com/ubuntu/ hirsute-updates universe
+deb http://us.archive.ubuntu.com/ubuntu/ hirsute multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ hirsute-updates multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ hirsute-backports main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu hirsute-security main restricted
+deb http://security.ubuntu.com/ubuntu hirsute-security universe
+deb http://security.ubuntu.com/ubuntu hirsute-security multiverse
