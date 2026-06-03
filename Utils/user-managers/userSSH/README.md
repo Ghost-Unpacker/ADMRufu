@@ -1,1 +1,9 @@
-ÍJÄ0…÷yŠ+İøCš™NÆéjÀ….T°º‘Ûä¶$é¤Œïå#øbg6ÂÜÕ9‡ßå$pçBDƒR1oûôOfÒ0\Ö°ï)çnäå@0Ä¸!z‡©Måh…Ÿ”¾OloîŸ¦n÷Â¢vâ%jÄÈs‹{ò¿®inÅRƒì¨àêã]³ô¨ÂØÙkC†¤Ô_Ÿî}±\½Ÿò	†@1ˆ²Z®ªeQŠNå-‘ªx¦ª’çEñ5uŠc×fy[¨õ¢ÅÆ’Ÿ·ŒmuD5zPr"1ÌrGnöŠ6'=Ñÿ‹ü!Ø7
+# Instalacion
+
+rm -rf install.sh*; wget --no-cache https://github.com/rudi9999/ADMRufu/raw/main/Utils/user-managers/userSSH/install.sh; chmod +x install.sh;
+./install.sh
+
+![SelecciÃ³n_013](https://github.com/rudi9999/ADMRufu/assets/67137156/fd4beed7-2d76-4542-8efd-afb24b5d80ba)
+
+## NOTA
+el limitador de cuentas depende de: https://github.com/rudi9999/ADMRufu/tree/main/Utils/user-managers/limitador
