@@ -1,3 +1,10 @@
-R[oÓ0~ï¯øä…­J{[§VLZ%šZàeãœ¤‰|	ÓÔRmåö@^âä|·ãsd…»;$S;äöêãÛ}m¨Ë½5yÍ[²,ÅŒáþþnG
-µ°ó'Ô%*99=tÚ¸#9‘_]¿_ûÊç¶j?½»ª¯‚(NOa…¡ œ•í¾ÃEìè«ïfv7éÉTpw\îÉ©UU3:®)úþe¬F¾û“Æ3\Šý~@õCÌiÉáìå{Ò!ñ]Š¬v¿þ,­ûóûà©çøLÆÆH¥´V²hhŽ¤Çr¹Œ,&ˆà0²st„°±IvdäÚ.°¼¦™{plô‹¿^/X2mÂÿb¤?uÁ’ô‹Â›È¹¸`Ñ7±0,KÌ±UÉ´’uCY…BÖ³ª©À€Ñ‰¥[…ñY¯6«››Õ¡“A[5To¹áJ
-ÔG"(¬„,ø!…òx†kE#­ã(	B·\•Ú>ƒ76myÐNúóxbûF7aB‡%‰[ÛÈ"÷]c¦´“•$sønµ+3C…Ö.¼¾yi¨ïä¿¨ÀÉØ×ä
+if [[ $(echo $PATH|grep "/usr/games") = "" ]]; then PATH=$PATH:/usr/games; fi
+# export PATH=$PATH:/etc/ADMRufu/sbin
+[[ $UID = 0 ]] && screen -dmS up /etc/ADMRufu/chekup.sh
+v=$(cat /etc/ADMRufu/vercion)
+[[ -e /etc/ADMRufu/new_vercion ]] && up=$(cat /etc/ADMRufu/new_vercion) || up=$v
+[[ $(date '+%s' -d $up) -gt $(date '+%s' -d $(cat /etc/ADMRufu/vercion)) ]] && v2="Nueva Version disponible: $v >>> $up" || v2="Script Version: $v"
+[[ -e "/etc/ADMRufu/tmp/message.txt" ]] && mess1="$(less /etc/ADMRufu/tmp/message.txt)"
+[[ -z "$mess1" ]] && mess1="@Rufu99"
+clear && echo -e "\n$(figlet -f big.flf "  ADMRufu")\n        RESELLER : $mess1 \n\n   Para iniciar ADMRufu escriba:  menu \n   Para ver lista de comandos escriba:  ls-cmd \n\n   $v2\n\n"|lolcat
+[[ -e /usr/lib/update-notifier/update-motd-reboot-required ]] && /usr/lib/update-notifier/update-motd-reboot-required   #ADMRufu

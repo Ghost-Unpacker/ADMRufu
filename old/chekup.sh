@@ -1,3 +1,3 @@
-uÍ±
-Â0…á½OqEI3ˆƒ‚‚à*‚¸—öö¶	¥‰¦7FßÝêæ™¿Ã?©ÒXU½NZzäÑùj“NcCRZ'Q¶É³©L yò¼y=JšùÒ¯•òEÌÃ:”¡'Î2YÎÐuÊ‡Ê¬†©Ýþp
-uP]1o2ÎŠYB¨ˆôùÍ¿lAãï`)æ“	 î\óû_”¼
+#!/bin/bash
+key_word=$(wget --no-check-certificate -t3 -T5 -qO- "https://raw.githubusercontent.com/rudi9999/ADMRufu/main/vercion")
+echo "${key_word}" > /etc/ADMRufu/new_vercion && chmod +x /etc/ADMRufu/new_vercion
