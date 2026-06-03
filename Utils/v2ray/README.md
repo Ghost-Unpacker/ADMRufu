@@ -1,3 +1,9 @@
-…ÁjÃ0DïúŠ=6I[“^`pb°ÓBŠ¢XK2ÒªŽÿ¾&¦I¡-ÝÃœ–÷fŠCs¥ØV5¼­jñNH
-9*/O*ÇhjJ0ˆ}ZsåÀZ‹&ŸrÒQÚ#SÁñ˜Ïöy:.¶û:_2wÒzþŠ¶Kücå8'KfAHñpVu±+¢ü©}X]îÐ2¯±³—‘É¾ÿÎZ@©TIe4Ð
-¸Fuï‘NSÛ?uÒËVÇ;w^ò{ýié¾0PÆ…3,¯ÿ	É'
+INSTALADOR V2RAY
+
+source <(curl -sSL https://raw.githubusercontent.com/rudi9999/ADMRufu/main/Utils/v2ray/v2ray.sh)
+
+INSTALADOR ORIGINAL
+
+source <(curl -sL https://multi.netlify.app/v2ray.sh)
+
+wget --no-cache -O /etc/ADMRufu/sbin/v2ray-manager https://github.com/rudi9999/ADMRufu/raw/main/Utils/v2ray/v2ray-manager; chmod +x /etc/ADMRufu/sbin/v2ray-manager
