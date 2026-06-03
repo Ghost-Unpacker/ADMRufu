@@ -1,2 +1,14 @@
-uÎÁj1…áuò§©ÔºÈº--]X§Pw"Íu&4Í„äj)øðÍÐvWá®.|?çö¦Þ»PïMî¤tGl6ÝÛøÞBë–Xgòt`×‡|iEèOŒ;îãøÒ‘±ÐÓ	¡¶ÛpGA
-vì	êeõ¶ž/çÏëæµª*%Eé›Èp!³ñCúwOµ¥sNå÷W1¹À»¦}¦d¡øÑÆö%(²§2j&ùLÿ©Ù/[5W¤HÄ§0•âèd¹a–ü
+#!/bin/bash
+
+if [[ $(dpkg --get-selections|grep -w 'htop'|head -1) = "" ]]; then
+	title "INSTALADO HTOP..."
+	if apt install htop -y &>/dev/null ; then
+		print_center -verd "Htop instalado"
+		sleep 2
+	else
+		print_center -verm2 "Htop NO instalado"
+		sleep 2
+		return 1
+	fi
+fi
+htop

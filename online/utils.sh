@@ -1,14 +1,135 @@
-åXmwâ6ş¼ş7gÎ–`0“Ìt6Ó:„œr–
-ÌlÛLJ…-@[öH†$øï{%™÷Ò=g?ô4ë¾JWÏ}QŠ}Æ‹}"GÖ¡sRt^ËNÙ±üaÔ‰ PğÀÅÙÜ8·gö'ÇuoJïÜÓÈ†›Ò
-¡¢åBIÜ‚«•B	y«SmDtfiê‡TpeÃ«WpsP ÷dDfp{«èô¥J‹q™®¨©å¶¢®)ZİjK&”p”‡'‹”üïCA(ø`ÿvè]\Ù ­ÊGé§á±óÁïP _ÀACï QnÖ¯;]¯áY‘BDìÜÑ`Ì{© \‚^ £İ\Çàù)› ş.¨¤$[ğF± vş{ÛXécÔïG,¤jK¹'AeË”Ìàà~8’ÓÎ”O¯§Ó_òzAl	J($€í¯o¿ÃŞ	sm+MÆ)øãqI…@/‚°d1§º±ssAæ^2JşÉ¢ş(ÛDåıû­Àd|NÓc–L*Ç©ŸôîâûôIÈøÍ–,ÅGÑcÑ¨‘E=9==-—N–ÌûÌ…e¥ÌŠóöŞœºoœr÷+r¥÷Me‡\ˆÛIJ¹ÿ¸Øæ‚)#Ò¤TôX€WsÎó0ßê66Y€Òù8¡üşUé%ĞhlÄP9Ô¯±?°­L§°C©J¸OCD—–Jj¶kWÍµ?ç#ŠG²@h P
-@ş5¹;Ér×ú›Añ9°¥Q¢I¡
-P4Â`•öÿBn‹DĞÿŒÜ³fVçË˜U¯úcÍ”çšZªÄÑoÁKBæğÕ
-(Í´óö.å+úA!	cŸˆĞ€† ×ôÔUsPp5aQlóÛÄfŞ
-4©‡õ<kF›‚¶EÃmKîŞ¦Ü[˜ß»Â2ÉdJ‘ÁcH¦0Œùü`º;
-šG€a¼SÌ}ÚÓ;³MØ/šĞùéCıÂŞn¹yr‹Íbs¦«Í”"6÷´™÷Éİİ"ga7&Ô-j5`å)àåªÂ„AŒ'|^è2`oûXnl?7mÅ¶0+©˜0ÎT§İV"À«MQ÷eÙ,î~ÎTìwlÌ€™«<Ò[ìÌïn‰Ê¦òÖu}âúZzªÚ”®Î?q,_,G½¸ÿ™úiO²¯´Ç¸‰Å#¸eø÷óBPrÊcñ-¦£ÕŒ7yOtå‚·ÎiÄ†#xûÚ6õ{qª€ïÈ‘êlÿÄ	130ã„"*±	Ä¡ÑÁªzå×'Ÿ8ñ}*%nchäğ#³o8ÇŠcr@£=]¸ûùp·dRw>ÙÓ4İ
-M,zÙN°cÚ¦d!Ê„áVÚFzfënÿZÅ¶Ÿ¬a;Ìh†ihç”ÍÎ-«^LƒC„¡¿VÎ÷NıScf¥!ù`
-¾ˆ  ¦Nbq&¡bZ!‡^ÑXâğQRüŠá`|½ˆ
-Ühñ
-ÿdSoX;âe­ú£fÕkÀÕÏàµõªwá¨â?Ã‘EÒ”%)é‡Tš]-ì´Ñ+ó™NĞzB3œO¨ X1çJ…Ku‘ËåÏëË8I·„2ê–lDøñ´->glirÿŒ¸¦nÉJêKŸQX²6´ZP¿n}è‚W­ÖZİMŞe³ı¯}±ƒÛüĞ]ª.»Y„"5ö¨Æ^KBü»¸/7ç‚ó±4õ²E¾Œqj•ĞìË8¤i,1k’;”a
-¦‹1øMø+Ê%ìí8¥kê+ÚhËÇ	ß—¶šeà"åˆ¡#^HÆbH7Ğ¯'£(ÁuËŠùêKø¦y}«ûs<¬¾¡oš——·ºæ	ó£ôI0Iøâ`ów
-äş¾yJã)äJ³oæc²‘?ËaD±.Vƒõç¿zD÷­ª,™o¾ç¨´ákcâx^y9](ßš>?Æ|§Ø{ÄÚ{îŸŞÃ¼«÷×Š+lü4[İúUıWï¢Ù®uàÜëÔ«Í¬ôw“\Õí#MœP¡Ğ¦şßbçaIŒÊ`¿GŠÆqøu¬gñB§U«]@oÇ~Á^y/{&D-¯í™ e=ä%Ãî^†õ«Vİk£éŸ>ÔºhwšZ·ÙyÉxe/ãk#]ëB½ÕõÎµÎÚŒ¿ÛóG~úB]o–«•R›µ¶¡8Ñóof"0x“8æø Å	!ÊŞÎÎô¦Tx}»x7ÿck_úTqâ³˜§¶aÖ›æ^zLûDâL¾©Œ[¥üü¿bïŞYåüò†K7ŸU^ü®ä×š#Rœ¼*ĞøA%ñş/
+#!/bin/bash
+#06/05/2020
+clear
+declare -A cor=( [0]="\033[1;37m" [1]="\033[1;34m" [2]="\033[1;31m" [3]="\033[1;33m" [4]="\033[1;32m" )
+SCPfrm="/etc/ger-frm" && [[ ! -d ${SCPfrm} ]] && exit
+SCPinst="/etc/ger-inst" && [[ ! -d ${SCPinst} ]] && exit
+
+TCPspeed () {
+if [[ `grep -c "^#ADM" /etc/sysctl.conf` -eq 0 ]]; then
+#INSTALA
+msg -ama "$(fun_trans "TCP Speed No Activado, Desea Activar Ahora")?"
+msg -bar
+while [[ ${resposta} != @(s|S|n|N|y|Y) ]]; do
+read -p " [S/N]: " -e -i s resposta
+tput cuu1 && tput dl1
+done
+[[ "$resposta" = @(s|S|y|Y) ]] && {
+echo "#ADM" >> /etc/sysctl.conf
+echo "net.ipv4.tcp_window_scaling = 1
+net.core.rmem_max = 16777216
+net.core.wmem_max = 16777216
+net.ipv4.tcp_rmem = 4096 87380 16777216
+net.ipv4.tcp_wmem = 4096 16384 16777216
+net.ipv4.tcp_low_latency = 1
+net.ipv4.tcp_slow_start_after_idle = 0" >> /etc/sysctl.conf
+sysctl -p /etc/sysctl.conf > /dev/null 2>&1
+msg -ama "$(fun_trans "TCP Activo Con Exito")!"
+} || msg -ama "$(fun_trans "Cancelado")!"
+ else
+#REMOVE
+msg -ama "$(fun_trans "TCP Speed ya esta activado, desea detener ahora")?"
+msg -bar
+while [[ ${resposta} != @(s|S|n|N|y|Y) ]]; do
+read -p " [S/N]: " -e -i s resposta
+tput cuu1 && tput dl1
+done
+[[ "$resposta" = @(s|S|y|Y) ]] && {
+grep -v "^#ADM
+net.ipv4.tcp_window_scaling = 1
+net.core.rmem_max = 16777216
+net.core.wmem_max = 16777216
+net.ipv4.tcp_rmem = 4096 87380 16777216
+net.ipv4.tcp_wmem = 4096 16384 16777216
+net.ipv4.tcp_low_latency = 1
+net.ipv4.tcp_slow_start_after_idle = 0" /etc/sysctl.conf > /tmp/syscl && mv -f /tmp/syscl /etc/sysctl.conf
+sysctl -p /etc/sysctl.conf > /dev/null 2>&1
+msg -ama "$(fun_trans "TCP Parado Con Exito")!"
+} || msg -ama "$(fun_trans "Cancelado")!"
+fi
+}
+SquidCACHE () {
+msg -ama "$(fun_trans "Squid Cache, Aplica cache en Squid")"
+msg -ama "$(fun_trans "Mejora la velocidad del squid")"
+msg -bar
+if [ -e /etc/squid/squid.conf ]; then
+squid_var="/etc/squid/squid.conf"
+elif [ -e /etc/squid3/squid.conf ]; then
+squid_var="/etc/squid3/squid.conf"
+else
+msg -ama "$(fun_trans "Su sistema no tiene un squid")!" && return 1
+fi
+teste_cache="#CACHE DO SQUID"
+if [[ `grep -c "^$teste_cache" $squid_var` -gt 0 ]]; then
+  [[ -e ${squid_var}.bakk ]] && {
+  msg -ama "$(fun_trans "Cache squid identificado, eliminando")!"
+  mv -f ${squid_var}.bakk $squid_var
+  msg -ama "$(fun_trans "Cache squid Removido")!"
+  service squid restart > /dev/null 2>&1 &
+  service squid3 restart > /dev/null 2>&1 &
+  return 0
+  }
+fi
+msg -ama "$(fun_trans "Aplicando Cache Squid")!"
+msg -bar
+_tmp="#CACHE DO SQUID\ncache_mem 200 MB\nmaximum_object_size_in_memory 32 KB\nmaximum_object_size 1024 MB\nminimum_object_size 0 KB\ncache_swap_low 90\ncache_swap_high 95"
+[[ "$squid_var" = "/etc/squid/squid.conf" ]] && _tmp+="\ncache_dir ufs /var/spool/squid 100 16 256\naccess_log /var/log/squid/access.log squid" || _tmp+="\ncache_dir ufs /var/spool/squid3 100 16 256\naccess_log /var/log/squid3/access.log squid"
+while read s_squid; do
+[[ "$s_squid" != "cache deny all" ]] && _tmp+="\n${s_squid}"
+done < $squid_var
+cp ${squid_var} ${squid_var}.bakk
+echo -e "${_tmp}" > $squid_var
+msg -ama "$(fun_trans "Cache Aplicado con Exito")!"
+service squid restart > /dev/null 2>&1 &
+service squid3 restart > /dev/null 2>&1 &
+}
+timemx () {
+rm -rf /etc/localtime
+ln -s /usr/share/zoneinfo/America/Merida /etc/localtime
+echo -e " $(fun_trans "FECHA LOCAL MX APLICADA!")"
+}
+resetiptables () {
+echo -e "Reiniciando Ipetables espere"
+iptables -F && iptables -X && iptables -t nat -F && iptables -t nat -X && iptables -t mangle -F && iptables -t mangle -X && iptables -t raw -F && iptables -t raw -X && iptables -t security -F && iptables -t security -X && iptables -P INPUT ACCEPT && iptables -P FORWARD ACCEPT && iptables -P OUTPUT ACCEPT
+echo -e "iptables reiniciadas con exito"
+}
+packobs () {
+msg -ama "Buscando Paquetes Obsoletos"
+dpkg -l | grep -i ^rc
+msg -ama "Limpiando Paquetes Obsoloteos"
+dpkg -l |grep -i ^rc | cut -d " " -f 3 | xargs dpkg --purge
+msg -ama "Limpieza Completa"
+}
+
+
+on="\033[1;32m[ON]" && off="\033[1;31m[OFF]"
+[[ $(ps x | grep badvpn | grep -v grep | awk '{print $1}') ]] && badvpn=$on || badvpn=$off
+[[ `grep -c "^#ADM" /etc/sysctl.conf` -eq 0 ]] && tcp=$off || tcp=$on
+if [ -e /etc/squid/squid.conf ]; then
+[[ `grep -c "^#CACHE DO SQUID" /etc/squid/squid.conf` -gt 0 ]] && squid=$on || squid=$off
+elif [ -e /etc/squid3/squid.conf ]; then
+[[ `grep -c "^#CACHE DO SQUID" /etc/squid3/squid.conf` -gt 0 ]] && squid=$on || squid=$off
+fi
+msg -bar
+msg -ama "                OPTIMIZADORES BASICOS "
+msg -bar
+echo -ne "$(msg -verd "  [1]") $(msg -verm2 ">") " && msg -azu "TCP-SPEED $tcp"
+echo -ne "$(msg -verd "  [2]") $(msg -verm2 ">") " && msg -azu "CACHE PARA SQUID $squid"
+echo -ne "$(msg -verd "  [3]") $(msg -verm2 ">") " && msg -azu "LIMPIAR PAQUETES  OBSOLETOS"
+echo -ne "$(msg -verd "  [4]") $(msg -verm2 ">") " && msg -azu "$(fun_trans "RESET IPTABLES")"
+msg -bar
+echo -ne "$(msg -verd "  [0]") $(msg -verm2 ">") " && msg -bra " \033[1;41m VOLVER \033[0m"
+msg -bar
+while [[ ${arquivoonlineadm} != @(0|[1-5]) ]]; do
+	echo -ne "$(msg -azu "opcion:") "
+read arquivoonlineadm
+tput cuu1 && tput dl1
+done
+case $arquivoonlineadm in
+1)TCPspeed;;
+2)SquidCACHE;;
+3)packobs;;
+4)resetiptables;;
+0)exit;;
+esac
+msg -bar

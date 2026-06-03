@@ -1,1 +1,7 @@
-mÏAjÃ0…á}O1h¡îº‹©#×YcÆ"…¸¥(AEmË(‚\¿QºÕz¾ÿÁÔÔõÈF2 ×­ÜVRøtãKµŒ×ýzþ‚W°›=M.¬O—é¡#-1ìd´†úB´„Õ§¿§¶6(Uõ†º@¬Ÿ«£½ï7’Å*û~(QÝÕÎóãíœ9î:©¡'6`mno”ª-ÄtÉ¼V½ÿ«çe<ºd39ÍÎFÎwEºi„–Yba2ùÅÂê²ÿ
+COMPARTIR ARCHIVO ONLINE \e[32m[working] = apacheon.sh
+MONITOR DE TAREAS HTOP \e[32m[working] = monitor_htop.sh
+FAIL2BAN \e[32m[working] = fail2ban.sh
+FIREWALL VPS \e[32m[working] = firewall-VPS.sh
+ADMIN PORTS ACTIVOS \e[32m[working] = ports.sh
+CLEAR LOGS \e[31m[beta] = clearLog.sh
+CONF ZONA HORARIA \e[32m[working] = timeZone.sh
