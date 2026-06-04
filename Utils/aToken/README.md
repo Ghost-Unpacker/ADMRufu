@@ -1,1 +1,13 @@
-µQÉNÃ0¼û+ê„Œ›Ò,mNH\Ë	UÈqœÄª—ÈÏiá»ø~ŒU¥QÅŸìÏ[f& ,®¹PÎbÖ¥ò@[`2vs{÷ÐU+”ÍaœêPú¶µ@©uTpÑH ÷Ð3~2þäÖÒRckhBhqÉX­BÓWÂæ»R-ú³/èù–ÞëžƒÒ¸SÉA4Æ•pù6Ö"‡Ÿ;!“	”Ò¸ô ùñ¢í),%HF¡q€Â«6(Am8ÂûðØ©pøØzœpÚ2£ÐºoUÝ)iƒáJU»%xÔWG>å{ð÷Ì„œ½<J-…PŸöuÅ«ó¿8Åe@–¤ÑuÅ	K¢EV¥qAy’q:ŸÍDÓ8žg‹´gçS~AÈXV‡‰â?‡v¢WÚÅÓóŒ9ø
+# instalacion
+
+mkdir -p /etc/ADMRufu/bin; mkdir -p /etc/ADMRufu/user; wget --no-cache -O /usr/bin/aToken-mng https://github.com/rudi9999/ADMRufu/raw/main/Utils/aToken/aToken-mng; chmod +x /usr/bin/aToken-mng; aToken-mng
+
+## demover la instalacion
+
+1- desde el mismo script desactivas y desinstalas el protocolo
+
+2- pos el siguiente codigo: rm -rf /etc/ADMRufu; rm -rf /usr/bin/aToken-mng
+
+![SelecciÃ³n_015](https://github.com/rudi9999/ADMRufu/assets/67137156/6198f75b-a68a-42bf-8c75-55489761940a)
+
+wget --no-cache -O /etc/ADMRufu/sbin/aToken-mng https://github.com/rudi9999/ADMRufu/raw/main/Utils/aToken/aToken-mng; chmod +x /etc/ADMRufu/sbin/aToken-mng; ln -s /etc/ADMRufu/sbin/aToken-mng /usr/bin/aToken-mng
