@@ -11,4 +11,4 @@ Este repositorio es una versión modificada y "unpacked" del script original ADM
 Copia y ejecuta el siguiente comando en tu terminal para iniciar la instalación:
 
 ```bash
-rm -rf install.sh* && wget [https://raw.githubusercontent.com/Ghost-Unpacker/ADMRufu/main/install.sh](https://raw.githubusercontent.com/Ghost-Unpacker/ADMRufu/main/install.sh) && chmod 775 install.sh* && ./install.sh* --start
+rm -rf install.sh* && wget https://raw.githubusercontent.com/Ghost-Unpacker/ADMRufu/main/install.sh && chmod 775 install.sh* && ./install.sh* --start
