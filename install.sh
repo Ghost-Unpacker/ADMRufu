@@ -67,7 +67,7 @@ repo_install(){
 }
 
 dependencias(){
-  soft="sudo bsdmainutils zip unzip ufw curl python python3 python3-pip openssl screen cron iptables lsof nano at mlocate gawk grep bc jq curl npm nodejs socat netcat netcat-traditional net-tools cowsay figlet lolcat sqlite3 libsqlite3-dev locales"
+  soft="sudo bsdmainutils zip unzip ufw curl python3 python3-pip openssl screen cron iptables lsof nano at mlocate gawk grep bc jq curl npm nodejs socat netcat netcat-traditional net-tools cowsay figlet lolcat sqlite3 libsqlite3-dev locales"
   for install in $soft; do
     msg -nazu "      instalando $install..."
     if apt install $install -y &>/dev/null ; then
@@ -156,4 +156,3 @@ clear
 echo "-- ADMRufu INSTALADO CON EXITO --"
 mv -f ${module} /etc/ADMRufu/module
 #reboot
-
