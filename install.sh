@@ -117,7 +117,7 @@ install_continue(){
 source /etc/os-release; export PRETTY_NAME
 
 case $1 in
-  -s|--start)install_start; echo 'clear; sleep 2; /etc/ADMRufu/install.sh --continue' >> /root/.bashrc; time_reboot "15";;
+  -s|--start)install_start; /etc/ADMRufu/install.sh --continue;;
   -c|--continue)sed -i '/Rufu/d' /root/.bashrc; install_continue;;
   -u|--update)install_start; rm -rf /etc/ADMRufu/tmp/style; install_continue;;
   -t|--test) ;;
@@ -151,7 +151,7 @@ wget -O ${varEntorno}/cmd "$url/mine_port/cmd" &>/dev/null; chmod +x ${varEntorn
 for i in $(ls ${varEntorno}); do ln -sf ${varEntorno}/$i /usr/bin/$i; done
 
 sed -i '/Rufu/d' /etc/bash.bashrc
-echo '[[ -e /etc/ADMRufu/bashrc ]] && source /etc/ADMRufu/bashrc' >> /etc/bash.bashrc
+# echo '[[ -e /etc/ADMRufu/bashrc ]] && source /etc/ADMRufu/bashrc' >> /etc/bash.bashrc
 clear
 echo "-- ADMRufu INSTALADO CON EXITO --"
 mv -f ${module} /etc/ADMRufu/module
