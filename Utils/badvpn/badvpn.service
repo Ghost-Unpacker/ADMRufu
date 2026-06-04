@@ -1,1 +1,14 @@
-EMjÃ0…÷:…/ Øn‚¥›êº^/ibDå‘Æq|û!¡Ìêı0ïÔ¡£A4Mr‘\@µ×öçøYtÍñ½/ZHWg@¼]’B %¤ßé4	qzÄƒø^#¨ì¦èAt™«)=—K`(¤U•wûpÓòRåœSyvXµ½F”³ãRHé]&@©­MEı²ÛT|õën[UNú&w€”‹ºú·"Ï0B–—nˆ/È÷5í½æ§lÁ¨mfˆdíı zv¿ªiöääÌOÔ?
+[Unit]
+Description=BadVPN UDPGW Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root
+ExecStart=/usr/bin/badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 1000 --max-connections-for-client 10
+Restart=always
+RestartSec=3s
+
+[Install]
+WantedBy=multi-user.target
