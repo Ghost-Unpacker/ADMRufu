@@ -1,3 +1,5 @@
-N;
-1ìsŠˆ"ñíÇý¨•`+Šb%"ùºÝdÙ$è½<‚sE++§™™b>C¬ó´¦\[ƒÐí*=&ÄXÂ)¯$&[ÁuÀ´ ÚÆ
-\yßºÀUû*°)·tAèyX­7û tôí3G¯kmg½å¶vÇõî[ó&ò‘KÌ«wñäþ»µÄFhp:ÈZr®Ÿs‰âô<úçuNzy§EœåÀ¢\1%fD•YBf™*YoÉR%i.²1z
+# instalacion
+
+wget --no-cache -O /usr/bin/udpmod https://github.com/rudi9999/ADMRufu/raw/main/Utils/protocolsUDP/udpmod/udp-udpmod; chmod +x /usr/bin/udpmod; udpmod
+
+![SelecciÃ³n_013](https://github.com/rudi9999/ADMRufu/assets/67137156/b06fbfd4-f852-45f7-a1b4-f2b0e8f236d5)
